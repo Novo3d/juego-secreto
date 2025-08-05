@@ -1,4 +1,4 @@
-/*
+
 let intentos = 0;
 let numeroMaximo = 10;
 let listaNumerosSorteados = [];
@@ -63,7 +63,7 @@ function verificarIntento() {
         
     return;
 }
-*/
+
 /*
 function limpiarCaja(){ //se puede usar querySelector o getElementByID
     document.querySelector('#valorUsuario').valorCaja.value = '';
@@ -71,7 +71,7 @@ function limpiarCaja(){ //se puede usar querySelector o getElementByID
 */
  //es lo mismo que arriba solo que más extenso arriba está simplificado.
 
-/*
+
 
 function limpiarCaja(){ //se puede usar querySelector o getElementByID
     let valorCaja =document.querySelector('#valorUsuario');
@@ -90,7 +90,7 @@ function reiniciarJuego(params) {
 }
 
 condicionesIniciales();
-*/
+
 
 //HASTA AQUÍ TERMINA EL EJERCICIO DEL NÚMERO SECRETO EL RESTO SOLO SON DESAFIOS.
 //
@@ -383,3 +383,4 @@ function cuadradoLista(lista) {
 const lista = [2, 3, 4];
 const resultado = cuadradoLista(lista);
 console.log(resultado);  
+
