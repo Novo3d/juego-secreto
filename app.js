@@ -376,6 +376,7 @@ const resultado = sumarListas(lista1, lista2);
 console.log(resultado);  
 
 */
+/*
 function cuadradoLista(lista) {
     return lista.map(num => num ** 2);
 }
@@ -383,4 +384,6 @@ function cuadradoLista(lista) {
 const lista = [2, 3, 4];
 const resultado = cuadradoLista(lista);
 console.log(resultado);  
+*/
+
 
